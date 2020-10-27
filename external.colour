@@ -1,0 +1,6 @@
+.colour
+{
+	font-color:blue;
+	font-size:50%;
+	background-color:black;
+}
