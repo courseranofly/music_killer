@@ -1,0 +1,114 @@
+         .colour
+          {
+        font-size:120%;
+        font-style: italic;
+        font-weight: 300;
+        float:right;
+         }
+         .header
+         {
+          background-color:yellow;
+          font-size:200%;
+          font-style:bold;
+         }
+         #p1{
+          margin-top:-250px;
+          width:600px;
+         }
+         #p2{
+          width:650px;
+          margin-top:-1px
+            }
+         #p3{
+           width:650px;
+           margin-top:-350px
+            }
+         #p4{
+           width:650px;
+           margin-top:-350px
+          }
+         #p5{  
+           width:650px;
+           margin-top:-350px
+          }
+         #p6{
+           width:700px;
+           margin-top:-800px
+          }
+         #p7{
+             margin-top:200px;
+            }           
+         #p8{
+             margin-top:200px;
+          }
+          @media(min-width:900px)
+                {
+            #p1{
+              :wi     .dth45%;
+              margin-top:-350px;
+
+            }
+            #p2{
+              width:35%;
+              margin-top:-400px;
+
+            }
+            #p3{
+              width:35%;
+              margin-top:-400px;
+              font-size:13px;
+                }
+              #p4{
+                width:35%;
+              }
+              #p5{
+                width:35%;
+                margin-top:-400px;
+                font-size:16px;
+              }
+              #p6{
+                margin-top: -750px;
+                width:35%;
+                font-size:16px;
+              }
+              @media(min-width:1200px)
+              {
+                #p1
+                {
+                  margin-top:-300px;
+                  width:60%;
+                  font-size:30px;
+                }
+                #p2
+                {
+                  width:52%;
+                  margin-top:-410px;
+                  font-size:30px;
+
+                }
+                #p3
+                {
+                  width:53%;
+                  font-style:bold;
+                  font-size:23px;
+                }
+                #p4
+                {
+                  width:53%;
+                  font-size:24px;
+                }
+                #p5
+                {
+                  width:53%;
+                  font-size:24px;
+                }
+                #p6
+                {
+                  width:53%;
+                  font-size:24px;
+                }                 
+
+              }
+
+
+          }
