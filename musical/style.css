@@ -37,6 +37,12 @@
           }
          @media(min-width:900px)
                 {
+                  .correctheader
+                  {
+                    border:5px solid black;
+                    height:37px;
+                    width:900px;
+                  }
             #p1{
               width:45%;
               margin-top:-350px;
@@ -53,6 +59,7 @@
               font-size:13px;
                 }
               #p4{
+                margin-top: -300px;
                 width:35%;
               }
               #p5{
@@ -88,7 +95,6 @@
                 }
                 #p4
                 {
-                  background-color: red;
                   margin-top: -300px;
                   width:53%;
                   font-size:24px;
